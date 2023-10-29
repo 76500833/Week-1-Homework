@@ -90,8 +90,8 @@ p {
     background-color: #2589bd;
     /*Added position absolute so i can move it to a sleeker layout*/
     position: absolute;
+    top: 890px;
 
-    margin-top: 815px;
 }
 
 .benefit-lead {
