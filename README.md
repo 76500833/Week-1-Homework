@@ -19,7 +19,7 @@ Provide a short description explaining the what, why, and how of your project. U
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     
-    ![a screenshot of the website](screenshot.png)
+    ![a screenshot of the website](images/screenshot.png)
     
 
 
