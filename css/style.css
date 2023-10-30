@@ -87,16 +87,17 @@ p {
     margin-right: 20px;
     padding: 20px;
     clear: both;
-
+    height: 1029.38px;
     width: 20%;
     /*Changed the height a little so the background color covers the text*/
-    height: 150%;
+
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     /*Added position absolute so i can move it to a sleeker layout*/
     position: absolute;
-    top: 890px;
+    top: 911px;
     right: 25px;
+
 
 }
 
