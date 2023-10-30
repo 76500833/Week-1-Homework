@@ -10,7 +10,9 @@
 
 
 <body>
+
     <!--Header-->
+
     <header class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
@@ -26,15 +28,27 @@
                 </li>
             </ul>
         </div>
-    </div>
+    </header>
+
+    <!--Container for the Background Image,
+            Changes Made:
+                Div to Figure.
+    -->
+    <figure class="hero"></figure>
 
 
-    <!--container for the background image-->
-    <div class="hero"></div>
-
-
-<!--Left image-->
     <main class="content">
+
+
+    <!--left Section,
+            Changes Made, Refactoring:
+                divs to main and sections.
+
+            Bug Found: Broken Link
+                Resolved: 
+                    Fix: class="search-engine-optimization" 
+                    changed to: id
+    -->
         <section id="search-engine-optimization" class="search-engine-optimization">
             <img src="./images/search-engine-optimization.jpg" class="float-left" alt="an organized and creative desk"/>
             <h2>Search Engine Optimization</h2>
@@ -59,7 +73,10 @@
     </main>
 
 
-<!--Right image-->
+    <!--Right image
+previously: divs
+now:        aside, section
+-->
     <aside class="benefits">
         <section class="benefit-lead">
             <h3>Lead Generation</h3>
