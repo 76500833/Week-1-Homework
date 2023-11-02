@@ -15,4 +15,4 @@ Full Stack Developer
 #### What did you learn?
 - I learned some semantic HTML elements, how to write a README, and got familiar with git.
 
-MIT liscence
+MIT licence
